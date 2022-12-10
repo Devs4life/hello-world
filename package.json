@@ -5,7 +5,7 @@
   "repository": "https://github.com/mpineault/deploy-nodejs-docker",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "author": "Sam <sam.dao@YRB-DES007>"
 }
